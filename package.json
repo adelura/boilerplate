@@ -16,7 +16,7 @@
     "url": "https://github.com/adelura/boilerplate/issues"
   },
   "homepage": "https://github.com/adelura/boilerplate",
-  "dependencies": {
+  "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-jscs": "^1.8.0"
   }
